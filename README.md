@@ -2,30 +2,30 @@
 
 Recent Computer Science graduate focused on secure full-stack software development, cloud-based applications, and user-centered engineering.
 
-I have experience building full-stack applications, APIs, automation tools, and software workflows using React, TypeScript, Next.js, Node.js, SQL, Python, AWS, Docker, GitHub Actions, and Git.
+I build full-stack applications, APIs, automation tools, and internal software workflows using React, TypeScript, Next.js, Node.js, SQL, Python, AWS, Docker, GitHub Actions, and Git.
 
 ## Featured Projects
 
-### BetMaxxing
+### BetMaxxing — Full-Stack Sports Betting Analysis Platform
+
 Full-stack sports betting analysis platform built with React, TypeScript, Next.js, Node.js, SQL, Docker, and GitHub.
+
+**Live Site:** https://betmaxxing.com/  
+**Case Study:** https://github.com/a-dahlke/betmaxxing-case-study.git
 
 - Built ticket workflows, user dashboards, favorites, and interactive analysis tools.
 - Integrated frontend components with backend APIs and SQL-based ticket data.
 - Contributed to ML-powered scoring, probability analysis, debugging, testing, and agile sprint development.
 
-### Raffiné Fleur Order Platform
-Customer-facing order website and internal tracking platform for managing custom candle orders, production status, and client communication.
+### Raffiné Fleur Order Platform — Customer Order & Production Tracking System
 
-- Built tools to support custom orders, fulfillment workflows, and production tracking.
+Internal order management platform built to support custom candle orders, production tracking, fulfillment workflows, and client communication for a real e-commerce business.
+
+**Case Study:** https://github.com/a-dahlke/raffine-fleur-order-platform-case-study.git
+
+- Built tools to manage custom orders, production status, fulfillment workflows, and order history.
 - Designed digital workflows to reduce manual tracking and improve visibility into order progress.
-- Grew the business from launch to 5,000+ candles sold in the first year.
-
-### AI-Powered Pattern Detection System
-Machine learning-based system designed to detect patterns, changes, and anomalies in sensor data.
-
-- Used Python for preprocessing, feature extraction, classification, and result visualization.
-- Built a lightweight web interface to present results clearly for non-technical users.
-- Designed the system for flexible health, environmental, and monitoring use cases.
+- Supported business growth from launch to 5,000+ candles sold in the first year.
 
 ## Technical Skills
 
@@ -47,5 +47,5 @@ Machine learning-based system designed to detect patterns, changes, and anomalie
 ## Links
 
 - Portfolio: https://annadahlke.s3.us-east-2.amazonaws.com/index.html
-- LinkedIn: www.linkedin.com/in/anna-dahlke-7224a41a2
+- LinkedIn: https://www.linkedin.com/in/anna-dahlke-7224a41a2
 - Email: anna.m.dahlke@gmail.com
