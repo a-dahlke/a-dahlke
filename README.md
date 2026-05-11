@@ -46,6 +46,5 @@ Internal order management platform built to support custom candle orders, produc
 
 ## Links
 
-- Portfolio: https://annadahlke.s3.us-east-2.amazonaws.com/index.html
 - LinkedIn: https://www.linkedin.com/in/anna-dahlke-7224a41a2
 - Email: anna.m.dahlke@gmail.com
